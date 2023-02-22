@@ -13,6 +13,7 @@ public class JdbcExOne {
         while (rs.next()) {
             String name = rs.getString("name");
             System.out.println(name);
+
         }
 
         rs.close();

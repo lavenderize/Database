@@ -23,6 +23,7 @@
     <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="8ab5e4b2-1658-4c92-8de5-212d98ae8a95" dataset="malldb.userTbl" active-filter-id="" />
     <filter-actions connection-id="8ab5e4b2-1658-4c92-8de5-212d98ae8a95" dataset="malldb.buyTbl" active-filter-id="" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
