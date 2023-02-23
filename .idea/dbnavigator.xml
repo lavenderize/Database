@@ -20,11 +20,22 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files />
+    <open-files>
+      <object connection-id="8ab5e4b2-1658-4c92-8de5-212d98ae8a95" object-ref="schemas/malldb/tables/userTbl" />
+      <object connection-id="8ab5e4b2-1658-4c92-8de5-212d98ae8a95" object-ref="schemas/malldb/tables/buyTbl" />
+    </open-files>
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
-    <filter-actions connection-id="8ab5e4b2-1658-4c92-8de5-212d98ae8a95" dataset="malldb.userTbl" active-filter-id="" />
-    <filter-actions connection-id="8ab5e4b2-1658-4c92-8de5-212d98ae8a95" dataset="malldb.buyTbl" active-filter-id="" />
+    <filter-actions connection-id="8ab5e4b2-1658-4c92-8de5-212d98ae8a95" dataset="malldb.userTbl" active-filter-id="">
+      <filter id="85022a46-dbbc-402b-a143-4bd9eb90aa19" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+        <condition column="id" operator="=" value="" active="true" />
+      </filter>
+    </filter-actions>
+    <filter-actions connection-id="8ab5e4b2-1658-4c92-8de5-212d98ae8a95" dataset="malldb.buyTbl" active-filter-id="">
+      <filter id="dbbb331b-3b1a-4759-b0e9-5fc8c164a0b2" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+        <condition column="id" operator="=" value="" active="true" />
+      </filter>
+    </filter-actions>
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
