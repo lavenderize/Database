@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookDBDelete230223/BookDBDelete230223.iml" filepath="$PROJECT_DIR$/BookDBDelete230223/BookDBDelete230223.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookDBManager/BookDBManager.iml" filepath="$PROJECT_DIR$/BookDBManager/BookDBManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookDBSearchAndUpdate/BookDBSearchAndUpdate.iml" filepath="$PROJECT_DIR$/BookDBSearchAndUpdate/BookDBSearchAndUpdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookInsert/BookInsert.iml" filepath="$PROJECT_DIR$/BookInsert/BookInsert.iml" />
+    </modules>
+  </component>
+</project>
